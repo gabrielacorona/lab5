@@ -1,0 +1,16 @@
+
+
+div{
+    padding: 10px;
+    border: 1px solid black;
+}
+ul{
+    list-style: none;
+}
+
+
+.checkElement{
+    font-style: italic;
+    text-decoration: line-through;
+    color:gray;
+}
